@@ -1,0 +1,36 @@
+"productID";"productName";"departmentName";"Qty On Hand";"Qty On Hold";"Qty Available";"Qty On Order";"Current Level";"Target Level"
+"";"Apples";"PRODUCE";25;25;0;41;41;40
+"";"Avocados";"PRODUCE";50;0;50;50;100;100
+"";"Bananas";"PRODUCE";0;0;0;40;40;40
+"";"Berries";"PRODUCE";15;0;15;0;15;40
+"";"Broccoli";"PRODUCE";0;0;0;10;10;100
+"";"Biscuits";"DAIRY / FRIDGE";0;0;0;0;0;40
+"";"Butter";"DAIRY / FRIDGE";0;0;0;0;0;40
+"";"Cheese";"DAIRY / FRIDGE";40;0;40;0;40;40
+"";"Cookie Dough";"DAIRY / FRIDGE";0;0;0;0;0;40
+"";"Cream Cheese";"DAIRY / FRIDGE";0;0;0;20;20;20
+"";"Chicken";"FROZEN";0;0;0;40;40;40
+"";"Desserts";"FROZEN";0;0;0;0;0;20
+"";"Dinners";"FROZEN";23;23;0;0;0;60
+"";"Fish";"FROZEN";0;0;0;120;120;120
+"";"Fruits";"FROZEN";0;0;0;0;0;40
+"";"Batteries";"HOUSEHOLD";325;325;0;300;300;100
+"";"Bleach";"HOUSEHOLD";0;0;0;0;0;100
+"";"Cards";"HOUSEHOLD";0;0;0;40;40;40
+"";"Charcoal";"HOUSEHOLD";60;0;60;0;60;100
+"";"Detergent";"HOUSEHOLD";120;110;10;0;10;120
+"";"Baby Food";"BABY";80;0;80;0;80;80
+"";"Diapers";"BABY";40;0;40;0;40;40
+"";"Formula";"BABY";80;0;80;0;80;80
+"";"Rash Cream";"BABY";0;0;0;40;40;40
+"";"Wipes";"BABY";0;0;0;0;0;20
+"";"Deodorant";"PERSONAL";60;0;60;0;60;60
+"";"Floss";"PERSONAL";20;20;0;0;0;75
+"";"Lotion";"PERSONAL";125;75;50;0;50;125
+"";"Mouthwash";"PERSONAL";0;0;0;0;0;100
+"";"Razor Blades";"PERSONAL";0;0;0;0;0;200
+"";"Shampoo";"PERSONAL";0;0;0;10;10;20
+"";"Shaving Cream";"PERSONAL";0;0;0;0;0;20
+"";"Soap";"PERSONAL";0;0;0;0;0;50
+"";"Toothbrush";"PERSONAL";0;0;0;0;0;40
+"";"Toothpaste";"PERSONAL";0;0;0;0;0;40
